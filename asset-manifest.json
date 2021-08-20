@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/sherbet_app/static/css/main.7f7db3fc.chunk.css",
+    "main.js": "/sherbet_app/static/js/main.d2346c3d.chunk.js",
+    "main.js.map": "/sherbet_app/static/js/main.d2346c3d.chunk.js.map",
+    "runtime-main.js": "/sherbet_app/static/js/runtime-main.3d916ea7.js",
+    "runtime-main.js.map": "/sherbet_app/static/js/runtime-main.3d916ea7.js.map",
+    "static/js/2.553f5ba5.chunk.js": "/sherbet_app/static/js/2.553f5ba5.chunk.js",
+    "static/js/2.553f5ba5.chunk.js.map": "/sherbet_app/static/js/2.553f5ba5.chunk.js.map",
+    "index.html": "/sherbet_app/index.html",
+    "static/css/main.7f7db3fc.chunk.css.map": "/sherbet_app/static/css/main.7f7db3fc.chunk.css.map",
+    "static/js/2.553f5ba5.chunk.js.LICENSE.txt": "/sherbet_app/static/js/2.553f5ba5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d916ea7.js",
+    "static/js/2.553f5ba5.chunk.js",
+    "static/css/main.7f7db3fc.chunk.css",
+    "static/js/main.d2346c3d.chunk.js"
+  ]
+}
